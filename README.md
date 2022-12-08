@@ -1,3 +1,4 @@
+
 Hi, my name is Thoralf and too many flags are confusing me. 
 
 Goulash:
@@ -6,3 +7,12 @@ Goulash:
 Definition of Hotfix:
 
 A hotfix or quick-fix engineering update (QFE update) is a single, cumulative package that includes information (often in the form of one or more files) that is used to address a problem in a software product (i.e., a software bug).Typically, hotfixes are made to address a specific customer situation.
+
+hi this is a(edition by gonzalo) new file
+
+hey this is my branch
+fix those conflicts
+
+pull and be happy.
+
+
